@@ -1,4 +1,4 @@
-# Video Clipper
+# Epic Seven Battle Simulator
 
 I created this because I wanted to be able to practice battles for the game Epic Seven. There is a lot of complex logic in the battling system, which is where the majority of the complexity comes from. Simple UI created with Swing.
 
